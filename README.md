@@ -27,6 +27,10 @@ The BBC News dataset contains categorized news articles:
   - `entertainment`
 
 ---
+## 🚀 Prediction App
+ [Try the App on Streamlit](https://memo2004-bbc-text-classification-with-rnn-lstm-gru-app-dbcbh0.streamlit.app/)
+
+---
 
 ## 🧠 Models Trained
 
@@ -38,6 +42,8 @@ The BBC News dataset contains categorized news articles:
 | **BiLSTM (Stacked)** | **87–89%** |
 
 > The **Stacked Bidirectional LSTM** gave the best results and was used for deployment.
+
+
 
 ---
 📦bbc-news-text-classification
